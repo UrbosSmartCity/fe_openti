@@ -1,0 +1,9 @@
+*.pyc
+/nb-configuration.xml
+/nbproject/private/
+/nbproject/
+/build/
+/dist/
+/fe_openti.egg-info/
+
+
