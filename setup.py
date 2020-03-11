@@ -5,7 +5,7 @@ setup(
   version = '0.0.6',
   install_requires=[
     'wheel',
-    'facturacion_electronica==0.8.2',
+    'facturacion_electronica==0.10.6',
   ],
   description = 'this module add changes to fe of openti',
   author = 'Abiezer Sifontes',
